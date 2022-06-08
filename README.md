@@ -1,2 +1,8 @@
-# MicroarrayAnalysis_JHUFall21
+MicroarrayAnalysis_JHUFall21
 This analysis pipeline was completed as part of the final project for AS.410.671 - Gene Expression Data Analysis and Visualization under Dr. Brandon Higgs in Fall 2021.
+
+This project analyzed Affymetrix Human Genome U133 Plus 2.0 Array data using a sample set of cancerous and normal tissues taken from children/young adults 
+with papillary thyroid cancer who either were (RE) or were not (NRE) exposed to radiation as a result of the Chernobyl disaster as a child.
+
+Handkiewicz-Junak D, Swierniak M, Rusinek D, et al. Gene signature of the post-Chernobyl papillary thyroid cancer. Eur J Nucl Med Mol Imaging. 2016;43(7):1267-1277. doi:10.1007/s00259-015-3303-3
+Dataset: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE35570
